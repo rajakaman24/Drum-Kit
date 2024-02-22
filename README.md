@@ -1,2 +1,1 @@
-# Drum-Kit
-Implemented using Html, css and Javascirpt. 
+"# Drum-Kit" 
